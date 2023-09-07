@@ -4,8 +4,8 @@ OsegoTech/OsegoTech is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Omollo Cliff Oganda (Osego-Baba)</h1>
-<h3 align="center">A passionate fullstack developer based in Nairobi Kenya</h3>
+<h1 align="center">Hi 👋, I'm Omollo Cliff Oganda </h1>
+<h3 align="center">A fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osegotech&label=Profile%20views&color=0e75b6&style=flat" alt="osegotech" /> </p>
 
