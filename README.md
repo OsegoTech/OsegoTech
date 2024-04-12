@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/osego_baba" target="blank"><img src="https://img.shields.io/twitter/follow/osego_baba?logo=twitter&style=for-the-badge" alt="osego_baba" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDb, Express, React and Node Js**
+- 🌱 I’m currently learning **WebRTC, Web Sockets, C# and ServerSide Events**
 
-- 💬 Ask me about **Node Js and React**
+- 💬 Ask me about **Nuxt and Vue, React and Next, Express, Laravel, MongoDB, SQL, PostgreSQL, Redis, Anthing CSS and GSAP**
 
-- 📫 How to reach me **cliffoganda22@gmail.com**
+- 📫 How to reach me **cliffoganda@outlook.com**
 
 - ⚡ Fun fact **A new stable version of me is released after every Tech Event**
 
